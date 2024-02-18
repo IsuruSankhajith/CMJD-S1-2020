@@ -7,7 +7,7 @@ package views;
 
 /**
  *
- * @author hasi
+
  */
 public class CustomerDTO {
     private String name;

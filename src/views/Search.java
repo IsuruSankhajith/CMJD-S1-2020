@@ -9,7 +9,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author hasi
+
  */
 public class Search extends javax.swing.JFrame {
 
